@@ -40,6 +40,8 @@ class Mammal extends Animal{  //哺乳动物
         pa.eye = "hah";
         pa.run();
         pa.nuansheng();
+        pa.eye.toString();
+        System.out.println(pa.toString());
 
     }
 
